@@ -1,0 +1,15 @@
+Référentiel;Dossier;Sous-Dossier 1;Sous-Dossier 2;Nom du Document;Nomenclature d'enregistrement
+Rendu Client;Lots;Lot 1;;Lot n°1;PIC_EXXON_LOTX_vX.X
+;;Lot 2;;Lot n°2;PIC_EXXON_LOTX_vX.X
+;;;Annexes;Annexes au lot;PIC_EXXON_LOTX_vX.X_Annexe_[Description]_xx-xx-202x
+;;;Fiches de Manip;Fiches de manipulation;PIC_EXXON_FM_[Description]_xx-xx-202x
+;;;Analyses;Analyses des résultats des différents paramètres;PIC_EXXON_Analyse_résultats_[Expérience]_xx-xx-202x
+;;Ressource;;Ressources;PIC_EXXON_[Description]_xx-xx-202x
+;;;;Suivi des ressources client;PIC_EXXON_Suivi_Ressources_Client_xx-xx-202x
+;PV d'ajournement;;;PV d'ajournement n°X;PIC_EXXON_Ajournement_LOTX_vX.X_xx-xx-202x
+;PV de livraison;;;PV de livraison n°X;PIC_EXXON_Livraison_LOTX_vX.X_xx-xx-202x
+;Preuve;;;Preuve qu'un lot est prêt à être envoyé lorsque des facteurs exterieurs nous en empechent;PIC_EXXON_Preuve_Ponctualité_LOTX_vX.X_xx-xx-202x
+;Suivi de livraison;;;Suivi de livraison n°X;PIC_EXXON_Suivi_Livraisons_xx-xx-202x
+;;;;;
+;;;;;
+;;;;;

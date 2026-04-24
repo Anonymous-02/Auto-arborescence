@@ -1,0 +1,32 @@
+Référentiel;Dossier;Sous-dossier1;Sous-dossier2;Nom du document;Nomenclature d'enregistrement
+Communication;Affiche;;;Affiches;PIC_EXXON_Affiches_[Description]_xx-xx-202x
+;;Meme;;Memes;PIC_EXXON_Meme_[Description]_xx-xx-202x
+;Appel;;;      CR des appels passés dans le projet;PIC_EXXON_CR_Appel_[Initiales]_xx-xx-202x
+;Autre;;;           Autres types de documents;PIC_EXXON_[Description]_[Initiales]_xx-xx-202x
+;Mail;Approbation CR;Appel;PV d' approbation des CR des Appels;PIC_EXXON_Approbation_CR_Appel_[Initiales]_xx-xx-202x
+;;;Audit;PV d' approbation des CR des Audits;PIC_EXXON_Approbation_CR_Audit_[Type de l'audit]_[Initiales]_xx-xx-202x
+;;;Réunion Client;PV d' approbation des CR des Réunions clients;PIC_EXXON_Approbation_CR_RC_[Initiales]_xx-xx-202x
+;;;Réunion Tuteur Pédagogique;PV d' approbation des CR des Réunions Tuteurs Pédagogiques;PIC_EXXON_Approbation_CR_TP_[Initiales]_xx-xx-202x
+;;;Réunion Tuteur Qualité;PV d' approbation des CR des Réunions Tuteurs Qualité;PIC_EXXON_Approbation_CR_TQ_[Initiales]_xx-xx-202x
+;;;Revue;PV d' approbation du CR des Revues;PIC_EXXON_Approbation_CR_RevueX_[Initiales]_xx-xx-202x
+;;;RFD;PV d' approbation des comptes rendus de la RFD;PIC_EXXON_Approbation_CR_RFD_[Initiales]_xx-xx-202x
+;;Approbation DI;DS;PV d' approbation du document de spécification;PIC_EXXON_Approbation_DSX_vX.X_xx-xx-202x
+;;;PGD;PV d'approbation du plan de gestion de documentation;PIC_EXXON_Approbation_PGD_vX.X_xx-xx-202x
+;;;PQ; PV d' approbation du Plan de Qualité;PIC_EXXON_Approbation_PQ_vX.X_xx-xx-202x
+;;Approbation document;;PV d'approbation des documents;PIC_EXXON_Approbation_[description]_vX.X_[Initiales]_xx-xx-202x
+;;Approbation lot;;PV d'approbation de lots;PIC_EXXON_Approbation_LOTX_vX.X_[Initiales]_xx-xx-202x
+;;PV;;PV autres;PIC_EXXON_PV_[Description]_[Initiales]_xx-xx-202x
+;Réunion;CR;CTFT;CR des commissions de traitement des faits techniques;PIC_EXXON_CR_CTFT_xx-xx-202x
+;;;Réunion Client;CR des réunions clients;PIC_EXXON_CR_RC_xx-xx-202x
+;;;Réunion Interne;CR des réunions internes;PIC_EXXON_CR_RI_xx-xx-202x
+;;;Réunion InterPIC;CR des réunions interPIC;PIC_EXXON_CR_interPIC_xx-xx-202x
+;;;Réunion Tuteur Pédagogique;CR des réunions Tuteurs Pédagogiques;PIC_EXXON_CR_TP_xx-xx-202x
+;;;Réunion Tuteur Qualité;CR des réunions Tuteur Qualité;PIC_EXXON_CR_TQ_xx-xx-202x
+;;;Revue;CR de la Revue n°X;PIC_EXXON_CR_RevueX_xx-xx-202x
+;;;RFD;CR de la revue  formelle de démarrage;PIC_EXXON_CR_RFD_xx-xx-202x
+;;PV;;Procès Verbaux des réunions;PIC_EXXON_PV_[Type de réunion]_xx-xx-202x
+;;;RFD;PV de la revue formelle de démarrage;PIC_EXXON_PV_RFD_xx-xx-202x
+;;Ordre du jour;;Ordre du jour de la Reunion;PIC_EXXON_OJ_[Type de réunion]_xx-xx-202x
+;Soutenance;Revue PIC;;Soutenance Revue PIC;PIC_EXXON_RevueX_[Description]_xx-xx-202x
+;;Soutenance Chef PIC;;Soutenance Chef PIC;PIC_EXXON_CR_soutenanceX_CP_xx-xx-202x
+;;Soutenance RQ;;Soutenance Responsable Qualité;PIC_EXXON_CR_soutenanceX_RQ_xx-xx-202x

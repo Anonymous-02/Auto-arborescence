@@ -1,0 +1,25 @@
+Référentiel;Dossier;Sous Dossier 1;Sous Dossier 2;Nom du document;Nomenclature d'enregistrement
+Qualité;Audit;Externe;Autre document;Autre type de document;PIC_EXXON_Audit_Ext_[Description]_xx-xx-202x
+;;;CR;CR d'audit externe;PIC_EXXON_CR_Audit_Ext_xx-xx-202x
+;;;Rapport;Rapport d'audit externe;PIC_EXXON_Rapport_Audit_Ext_xx-xx-202x
+;;Interne;Rapport;Rapport d'audit interne;PIC_EXXON_Rapport_Audit_Int_vX.X_xx-xx-202x
+;;Surprise;CR;CR d'audit surprise;PIC_EXXON_CR_Audit_Surp_xx-xx-202x
+;Formation;Attestation de formation;;Attestation de formation;PIC_EXXON_Attest_Formation_[Initiales]_xx-xx-202x
+;;Evaluation à chaud;;Evaluation à chaud;PIC_EXXON_EC_[Description]_[Initiales]_xx-xx-202x
+;;;Support;Support d'evaluation à chaud;PIC_EXXON_EC_[Description]_Support_xx-xx-202x
+;;Evaluation à froid;;Evaluation à froid;PIC_EXXON_EF_[Description]_[Initiales]_xx-xx-202x
+;;;Support;Support d'evaluation à froid;PIC_EXXON_EF_[Description]_Support_xx-xx-202x
+;;CC;;Contrôle de connaissance;PIC_EXXON_CC_[Description]_[Initiales]_xx-xx-202x
+;;;Support;Support de contrôle de connaissance;PIC_EXXON_CC_[Description]_Support_xx-xx-202x
+;;Plan de formation;;Plan de formation;PIC_EXXON_Plan_formation_xx-xx-202x
+;;Support de formation;;Support de formation ou d'autoformation;PIC_EXXON_SF_[Description]_xx-xx-202x
+;;TD Qualité;;Support de cours Qualité;PIC_EXXON_Cours_[Description]_xx-xx-202x
+;FBP;;;Fiche Bilan de Projet;PIC_EXXON_FBP_xx-xx-202x
+;PGD;Arborescence;;Arborescence;PIC_EXXON_Arborescence_xx-xx-202x
+;;;;Plan de gestion de documentation;PIC_EXXON_PGD_vX.X
+;PQ;FIC;;Fiches Individuelles de Compétences;PIC_EXXON_FIC_[Initiales]_xx-xx-202x
+;;;;Plan Qualité;PIC_EXXON_PQ_vX.X
+;Suivi de la qualité;Bilan de performance;;Bilan de performance;PIC_EXXON_BP_xx-xx-202x
+;;Fait technique;Arbre des causes;Arbre des causes;PIC_EXXON_AdC_FTX_xx-xx-202x
+;;;TTFT;Tableau de traitement des faits techniques;PIC_EXXON_TTFT_xx-xx-202x
+;;Suivi des indicateurs;;Suivi des indicateurs;PIC_EXXON_SI_xx-xx-202x
